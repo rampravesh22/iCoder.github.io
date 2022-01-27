@@ -1,0 +1,19 @@
+@media screen and (max-width: 990px) {
+    .sign-padding {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .btn-padding-x {
+        margin-left: 8px;
+
+    }
+
+}
+
+.border-radius {
+    border-radius: 12px;
+
+}
